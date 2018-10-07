@@ -1,45 +1,32 @@
 # Ridge Regression
 
-> **[?]** 
-> Provide short description for your project here.
-
-
-
----
-
 ## About
 
-> **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions - just the ones relevant to your project.
-
-
+An implementation of Ridge Regression which is applied to predicting wine quality, from a wine quality dataset.
 
 ### Built With
 
-> **[?]**
-> Please provide the technologies that are used in the project.
+* Python
+* Jupyter Notebook
 
 ## Getting Started
 
 ### Prerequisites
 
-> **[?]**
-> What are the project requirements/dependencies?
+* Anaconda distribution: https://www.anaconda.com/products/individual
+* Python packages: matplotlib, numpy, pandas, sklearn.
 
 ### Installation
 
-> **[?]**
-> Proceed to describe how to install and get started with the project.
+To install, clone the GitHub repo:
+
+`git clone https://github.com/vignesh-pagadala/ridge-regression.git`
 
 ## Usage
 
-> **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
+Run with Jupyer Notebook:
+
+`jupyter-notebook Ridge-Regression.ipynb`
 
 ## Roadmap
 
@@ -50,9 +37,6 @@ See the [open issues](https://github.com/vignesh-pagadala/ridge-regression/issue
 - [Newest Bugs](https://github.com/vignesh-pagadala/ridge-regression/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 ## Support
-
-> **[?]**
-> Provide additional ways to contact the project maintainer/maintainers.
 
 Reach out to the maintainer at one of the following places:
 
@@ -95,9 +79,3 @@ _For more info, please refer to the [security](docs/SECURITY.md)._
 This project is licensed under the **GNU General Public License v3**.
 
 See [LICENSE](LICENSE) for more information.
-
-## Acknowledgements
-
-> **[?]**
-> If your work was funded by any organization or institution, acknowledge their support here.
-> In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
